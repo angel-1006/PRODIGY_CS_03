@@ -22,7 +22,7 @@ def password_checker():
     else:
         var.set("                          Password is Strong!!            ")
     
-lf=Label(root, text="Enter the PassWord")
+lf=Label(root, text="Enter the Password")
 lf.place(x=140,y=10)
 
 entry=Text(root,height=1,width=10)
