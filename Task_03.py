@@ -33,4 +33,4 @@ b1.place(x=170,y=70)
 
 l=Label(root, textvariable=var)
 l.place(x=70,y=100)
-
+root.mainloo()
